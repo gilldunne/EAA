@@ -1,0 +1,238 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  history > history.txt
+   84  clear
+   85  cd /
+   86  ls
+   87  ls -f
+   88  ls -F
+   89  cd
+   90  pwd
+   91  ls -l
+   92  cd test
+   93  mkdir test
+   94  ls -l
+   95  cd test
+   96  pwd
+   97  cd /
+   98  cd bin
+   99  pwd
+  100  ls -l
+  101  cd
+  102  ls -l
+  103  pwd
+  104  history
+  105  cd /bin
+  106  ls -l > filelist.txt
+  107  ls -l > filelist
+  108  ls > filelist
+  109  ls > filelist.txt
+  110  ls -l > home/filelist.txt
+  111  ls -l > /home/filelist.txt
+  112  ls -l > //home/filelist.txt
+  113  ls -l
+  114  ls -l > /filelist.txt
+  115  pwd
+  116  ls -l > home/filelist.txt
+  117  ls -l > home/mint/filelist.txt
+  118  ls -l > mint/home/filelist.txt
+  119  ls -l > /mint/home/myfile.txt
+  120  ls -l > mint/home/myfile.txt
+  121  cd
+  122  ls -l /bin
+  123  ls -l /bin > mytext.txt
+  124  ls -l
+  125  diff history.txt mytext.txt
+  126  history > 190914-history.txt
+  127  export GIT_SSL_NO_VERIFY=1
+  128  export http_proxy=http://localhost:3128
+  129  export RUN=5
+  130  echo RUN
+  131  echo $RUN
+  132  echo $RUN
+  133  histor
+  134  export GIT_SSL_NO_VERIFY=
+  135  export http_proxy=http://localhost:3128
+  136  sudo -E apt-get install git
+  137  mkdir EAA
+  138  cd EAA
+  139  ls -l
+  140  touch README.md
+  141  ls -l
+  142  git init
+  143  git add README.md
+  144  git commit -m "first commit"
+  145  history
+  146  /
+  147  //
+  148  -
+  149  pwd
+  150  cd /
+  151  git config --global user.email "x00094469@ittd.ie"
+  152  git config --global user.name "gilldunne"
+  153  cd EAA
+  154  pwd
+  155  git config --global user.email "x00094469@ittd.ie"
+  156  git config --global user.name "gilldunne"
+  157  cd EAA
+  158  git init
+  159  git add README.md
+  160  git commit -m "first commit"
+  161  git push -u origin master
+  162  git commit -m
+  163  git commit -a
+  164  git push origin master
+  165  git commit -m "first commit"
+  166  history
+  167  git remote add origin https://github.com/gilldunne/EAA.git
+  168  git config --global user.email "x00094469@ittd.ie"
+  169  git config --global user.name "gilldunne"
+  170  git commit -m "first commit"
+  171  export GIT_SSL_NO_VERIFY=1
+  172  export http_proxy=http://localhost:3128
+  173  git remote add origin https://github.com/gilldunne/EAA.git
+  174  push origin master
+  175  git push origin master
+  176  git commit -a
+  177  git push origin master
+  178  git commit -a
+  179  git push origin master
+  180  git commit -a
+  181  git commit -a
+  182  git commit -a
+  183  git commit -a
+  184  git add -a
+  185  git add -A
+  186  git commit -a
+  187  export GIT_SSL_NO_VERIFY=1
+  188  export http_proxy=http://localhost:3128
+  189  git commit -a
+  190  cd EAA
+  191  git commit -a
+  192  history
+  193  git push origin master
+  194  git commit -a
+  195  git commit -a
+  196  git commit -a
+  197  git push origin master
+  198  git push origin master
+  199  git commit -a
+  200  git commit -a
+  201  git commit -a
+  202  git push origin master
+  203  git add -A
+  204  git add -A
+  205  get commit -a
+  206  git commit -a
+  207  git push origin master
+  208  cat /proc/cpuinfo | grep pocessor | wc -l
+  209  cd /
+  210  cat /proc/cpuinfo | grep pocessor | wc -l
+  211  cat proc/cpuinfo | grep pocessor | wc -l
+  212  cat /proc/cpuinfo | grep processor | wc -l
+  213  cat /proc/cpuinfo | grep processor | wc -l > Number of Processors
+  214  cd EAA
+  215  ls
+  216  cd home
+  217  cd EAA
+  218  ls
+  219  cd mint
+  220  ca EAA
+  221  cd EAA
+  222  git add -A
+  223  git commit -a
+  224  git push origin master
+  225  gedit cpucount.sh
+  226  git add -A
+  227  git commit -a
+  228  git push origin master
+  229  gedit cpucount.sh
+  230  ls -l
+  231  chmod +x cpucount.sh
+  232  ls -l
+  233  ./cpucount.sh 
+  234  git commit -a
+  235  git push origin master 
+  236  history
+  237  history > history26/09.txt
+  238  history > history2609.txt
